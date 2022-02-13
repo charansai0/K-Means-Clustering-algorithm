@@ -90,9 +90,10 @@ print('The cluster group for Applicant Income 9000 and Loanamount',predicted_cla
 ~~~
 ## Output:
 ![output](https://github.com/charansai0/K-Means-Clustering-algorithm.git?raw=true)
-![output](https://github.com/charansai0/K-Means-Clustering-algorithm/blob/master/Screenshot%20(246).png?raw=true)
+
 
 ### Insert your output
+![output](https://github.com/charansai0/K-Means-Clustering-algorithm/blob/master/Screenshot%20(246).png?raw=true)
 
 
 ## Result
