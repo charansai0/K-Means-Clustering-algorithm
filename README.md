@@ -28,7 +28,7 @@ Declare warnings.filerwarning with ignore as argument
 ### Step7:
 Declare a variable x1 and read a csv file(clustering.csv) in it.
 
-### ### Step8:
+### Step8:
 Declare a variable x2 as index of x1 with arguments ApplicantIncome and LoanAmount.
 
 ### Step9:
