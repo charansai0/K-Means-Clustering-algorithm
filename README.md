@@ -62,8 +62,8 @@ Display the predicted_class
 
 ~~~
 
-#Developed by: Koduru Sanath Kumar Reddy
-#Register number: 212221240024
+#Developed by: v.charan sai
+#Register number: 212221240061
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
